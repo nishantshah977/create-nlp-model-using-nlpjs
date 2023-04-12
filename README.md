@@ -1,6 +1,9 @@
 # create-nlp-model-using-nlpjs
 Create your own ChatGPT without OpenAI API
 
+# About
+This project uses nlp.js and is beneficial while creating NLP based ChatBots. It's easy to train and implement 
+
 # NLP.js
 
 [Documentation](https://github.com/axa-group/nlp.js)
